@@ -1,0 +1,14 @@
+.btns{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.quizzesList {
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+    color: white;
+}
